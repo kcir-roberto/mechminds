@@ -1,72 +1,42 @@
-# A fancy titled project - Project documentation
+# BudgetBot-SLAM
+BudgetBot-SLAM - Affordable SLAM for robots. Low-cost sensors, high-precision mapping. Make robots navigate smarter without breaking the bank!
 
-__:bangbang: Important :bangbang:__  This file is the documentation of your project. It should contain all requirements, crucial information and steps to reproduce your work. It may be used to evaluate your work at the final presentation, so make it understandable, easy to use and up-to-date.
+BudgetBot-SLAM is an open-source project dedicated to making Simultaneous Localization and Mapping (SLAM) accessible and affordable for a wide range of robotic applications. Our mission is to provide a cost-effective solution for robots to navigate and map their environments with precision.
 
-__:bangbang: Remark :bangbang:__  Remember to make your code clean and well documented
+## Key Features
 
-[Markdown basic syntax](https://www.markdownguide.org/basic-syntax/)
+- **Low-Cost Sensors**: We leverage budget-friendly sensors to reduce hardware expenses while maintaining performance.
+  
+- **MappingMagic**: Our project incorporates innovative SLAM algorithms to create accurate maps of the environment in real time.
 
-### Do's
+- **Versatile Applications**: BudgetBot-SLAM is designed to cater to various industries, including robotics education, research, and practical applications.
 
-1. keep your repository clean
-2. document your code 
-3. upload just the source code
-4. upload compressed images
-5. instead of movies upload gifs
-6. repository should be as lightweight as possible
+- **User-Friendly**: Our repository provides easy-to-use tools, documentation, and resources to help you implement SLAM on your robotic projects.
 
-### Don'ts
+- **Community Collaboration**: We welcome contributions and collaborations from the robotics community to enhance the capabilities of BudgetBot-SLAM.
 
-1. don't upload binary and temporary files
-2. don't upload unnecesary copies of your files
-3. don't upload heavy files
-4. don't upload configuration files of your ide
+## Getting Started
 
+To get started with BudgetBot-SLAM, please refer to our [Wiki](https://github.com/BudgetBot-SLAM/wiki) for detailed documentation, installation instructions, and examples.
 
+## Installation
 
-## Useful examples of markdown syntax
+You can install BudgetBot-SLAM by following the steps outlined in our [Installation Guide](https://github.com/BudgetBot-SLAM/wiki/Installation).
 
-### Code
+## Usage
 
-Code blocks are intended by four space or one tab. So this is a block code:
+For usage instructions and code examples, please visit our [Usage Guide](https://github.com/BudgetBot-SLAM/wiki/Usage).
 
-    if (linkPortCore * 23) {
-        clip.cc(guid, importPrinter.webmail_password_domain.usb_printer_gif(
-                spool_rpc, seoTextThunderbolt), frame_cell_ole);
-        tracerouteSystem += -5;
-    } else {
-        queueDisk(ppp);
-        gammaDesktopDns = mailDiskMemory;
-        dragBalanceWired = quicktime_word_macro(illegal_hibernate_srgb, 962835 +
-                5);
-    }
-    
+## Contributing
 
-### Tables
+We encourage contributions from the community! If you'd like to contribute to BudgetBot-SLAM, please see our [Contribution Guidelines](CONTRIBUTING.md).
 
-Tables in markdown can be made with use of hyphens (---) and pipes (|). Namely
+## License
 
-    | header1 | header2 |
-    | ------- | ------- |
-    |  elem1  | elem2 |
-    |  elem3  | elem4 |
+This project is licensed under the [MIT License](LICENSE).
 
-generates following table 
+## Contact
 
-| header1 | header2 |
-| ------- | ------- |
-|  elem1  | elem2 |
-|  elem3  | elem4 |
+For any questions or inquiries, please contact us at [265740@student.pwr.edu.pl](265740@student.pwr.edu.pl).
 
-### Images
-Images can be included to the markdown page with use of the following syntax 
-    
-    ![alternative text](path/to/the/image.png)
-
-For example:
-
-![cyrobek](images/CyRobek.png "load image to markdown file")
-
-### Other useful elements of markdown syntax
-
-___The basics of markdown syntax you will find here: [markdown basic syntax](https://www.markdownguide.org/basic-syntax/)___.
+Happy mapping with BudgetBot-SLAM!
