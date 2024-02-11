@@ -24,7 +24,15 @@ Follow the steps outlined in our [Installation Guide](https://kcir-roberto.githu
 
 ## Usage
 
-Explore usage instructions and code examples in our [Usage Guide](https://github.com/IsreLite/Inexpensibot-SLAM/wiki/Usage).
+Before deploying Inexpensibot-SLAM, it's imperative to ensure that your environment is properly set up. Begin by securely attaching all hardware components to the robot structure. Double-check that the battery is connected to the power source, providing the necessary energy for the system to function optimally.
+
+Once the hardware setup is complete, proceed with initializing the software environment. Follow the comprehensive instructions outlined in the Installation Guide to seamlessly install the required libraries and dependencies. Ensure that your system is equipped with the latest version of Arduino IDE to support the software integration process effectively.
+
+Now that your environment is primed, it's time to embark on the experimentation phase with Inexpensibot-SLAM. Strategically position obstacles within the environment to simulate real-world mapping scenarios accurately. Feel free to adjust the placement and configuration of obstacles to thoroughly test the robot's mapping capabilities across various conditions.
+
+For detailed insights and practical demonstrations, refer to the Installation Guide, which provides comprehensive code examples and step-by-step instructions on running the SLAM algorithms on your robot. Experiment with different settings and parameters to fine-tune the mapping performance and enhance accuracy.
+
+As you delve into the exploration of Inexpensibot-SLAM, your contributions are invaluable. Share your insights, feedback, and any code improvements to enrich the project further. Together, let's democratize SLAM technology and empower robots with advanced mapping capabilities for diverse applications.
 
 ## Contributing
 
