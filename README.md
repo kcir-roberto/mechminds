@@ -54,9 +54,17 @@ The solution proposed by Inexpensibot-SLAM consists of several components, inclu
 
 ### Tools Used
 
-- Software: [Specify software tools and versions used]
-- Libraries: [Specify libraries and versions used]
-- Models: [Specify any models or frameworks used]
+- Software: 
+  - Arduino IDE - Version 1.8.13
+  - C++ Programming Language
+
+- Libraries: 
+  - Servo Library
+  - Analog Input/Output Libraries (for signal conversion)
+
+- Models/Frameworks:
+  - Ready-made 4-wheel 2-layer robot chassis kits (Smart Car Chassis Kits)
+
 
 ### Details of the Solution
 
