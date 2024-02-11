@@ -45,7 +45,7 @@ This project is subject to the following terms and conditions:
 
 By using or accessing this project, you agree to be bound by these terms and conditions. If you do not agree with any part of these terms, you are prohibited from using or accessing this project.
 
-For questions or inquiries regarding this project license, please contact [Project Manager] at [Contact Email].
+For questions or inquiries regarding this project license, please [Contact Us] https://kcir-roberto.github.io/mechminds/index.html#contact-section).
 
 Inexpensibot-SLAM - All rights reserved.
 ## Contact
