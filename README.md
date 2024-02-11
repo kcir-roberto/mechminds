@@ -68,7 +68,12 @@ The solution proposed by Inexpensibot-SLAM consists of several components, inclu
 
 ### Details of the Solution
 
-[Describe in detail how the components of the solution are connected, including data flow and transmission protocols.]
+The solution involves connecting various hardware components and implementing appropriate data flow and transmission protocols. 
+
+To tackle the challenges posed by hardware complexities, a deep understanding of electronics, robotics, mathematics, along with logical and critical thinking, proved invaluable. 
+
+In the process, we encountered issues with the initial configuration of the hardware. However, through code repurposing and fine-tuning, we successfully adapted our code to work with the device. This involved adjusting vector parameters to ensure optimal output and functionality.
+
 
 ### Tests and Results
 
