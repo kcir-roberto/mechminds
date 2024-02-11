@@ -103,5 +103,28 @@ The project's range of applicability includes indoor mapping scenarios, educatio
 
 ### Appendices
 
-- Project Plan: [Provide a brief overview of the original project plan and any deviations.]
-- Task Distribution: [Outline how tasks were distributed among team members.]
+Project Plan:
+The original project plan outlined the following key stages and milestones:
+
+- Stage 1 (Weeks 1-4): Project planning, research, and sensor selection.
+- Stage 2 (Weeks 5-8): Robot hardware assembly, including chassis, motors, and sensors.
+- Stage 3 (Weeks 9-12): Software development, focusing on localization algorithms and mapping functionality.
+- Stage 4 (Weeks 13-15): Testing, refinement, and preparation for the project presentation.
+
+Deviations from the original plan included:
+- Extended time required for sensor selection and procurement.
+- Unforeseen challenges during hardware assembly, leading to delays.
+- Additional time allocated for software development to address complexities in localization algorithms.
+
+Task Distribution:
+Tasks were distributed among team members based on their expertise and responsibilities:
+
+- Project Manager: Oversaw project progress, coordinated tasks, and ensured adherence to deadlines.
+- Software Developer: Responsible for coding and programming the robot's software, focusing on sensor data processing and navigation algorithms.
+- Quality Assurance (QA) Tester: Conducted testing to identify and report issues, ensuring the robot met project success criteria.
+- Documentation & Procurement Specialist: Managed project documentation and acquired necessary hardware and materials.
+- Technical Lead: Provided technical guidance and oversight, particularly in hardware and sensor selection and integration.
+- Hardware Engineer: Focused on ensuring the proper functioning and integration of hardware components, including sensors, actuators, and power systems.
+- Communication and Liaison: Facilitated clear communication among team members and stakeholders, ensuring effective collaboration.
+- Risk Manager: Identified and mitigated project risks, ensuring the project stayed on course and addressing incompatibility issues.
+- Presentation and Demonstration Lead: Prepared and delivered the project presentation and demonstration, showcasing the robot's mapping capabilities.
