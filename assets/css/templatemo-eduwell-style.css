@@ -1068,6 +1068,15 @@ section.testimonials:after {
   bottom: 30px
 }
 
+.testimonials .item .imgdisp {
+  display: flex;
+  max-width: 250px;
+  z-index: 2;
+  position: relative;
+  left: 10px;
+  bottom: 1px
+}
+
 .testimonials .owl-dots {
   text-align: center;
   margin-top: 30px;
