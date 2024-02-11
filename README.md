@@ -33,11 +33,11 @@ We encourage community contributions! Check our [Contribution Guidelines](CONTRI
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [PWR Project License](LICENSE).
 
 ## Contact
 
-For questions or inquiries, contact us at [265740@student.pwr.edu.pl](265740@student.pwr.edu.pl).
+For questions or inquiries, contact us at [Our Main Project Site](https://kcir-roberto.github.io/mechminds/).
 
 Happy mapping with Inexpensibot-SLAM!
 
