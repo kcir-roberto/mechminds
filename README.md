@@ -47,7 +47,7 @@ By using or accessing this project, you agree to be bound by these terms and con
 
 For questions or inquiries regarding this project license, please contact [Project Manager] at [Contact Email].
 
-[Project Name] - All rights reserved.
+Inexpensibot-SLAM - All rights reserved.
 ## Contact
 
 For questions or inquiries, contact us at [Our Main Project Site](https://kcir-roberto.github.io/mechminds/).
