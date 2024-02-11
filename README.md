@@ -20,7 +20,7 @@ Refer to our [Wiki](https://kcir-roberto.github.io/mechminds/about-us.html) for 
 
 ## Installation
 
-Follow the steps outlined in our [Installation Guide]([https://github.com/IsreLite/Inexpensibot-SLAM/wiki/Installation](https://kcir-roberto.github.io/mechminds/about-us.html#install).
+Follow the steps outlined in our [Installation Guide](https://kcir-roberto.github.io/mechminds/about-us.html#install).
 
 ## Usage
 
