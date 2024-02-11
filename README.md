@@ -70,14 +70,22 @@ The solution proposed by Inexpensibot-SLAM consists of several components, inclu
 
 The solution involves connecting various hardware components and implementing appropriate data flow and transmission protocols. 
 
-To tackle the challenges posed by hardware complexities, a deep understanding of electronics, robotics, mathematics, along with logical and critical thinking, proved invaluable. 
+To tackle the challenges posed by hardware complexities, a deep understanding of electronics, robotics, mathematics, along with logical and critical thinking, proved valuable. 
 
 In the process, we encountered issues with the initial configuration of the hardware. However, through code repurposing and fine-tuning, we successfully adapted our code to work with the device. This involved adjusting vector parameters to ensure optimal output and functionality.
 
 
 ### Tests and Results
 
-[Outline the tests conducted to evaluate the performance of the solution and summarize the results obtained.]
+The solution underwent rigorous testing to evaluate its performance under various conditions. Tests included:
+
+1. Lighting Conditions: The solution was tested under different lighting conditions to assess its robustness. Hardware failure due to low current and voltage was observed in some cases, highlighting the need for power optimization.
+
+2. Kinematics Parameters: Testing involved adjusting kinematic parameters to ensure smooth transitions between the robot's initial and final positions. This process required fine-tuning to achieve optimal movement and accuracy.
+
+3. PWM Calibration: PWM (Pulse Width Modulation) calibration was conducted by adjusting the output frequency of the microchip on the microcontroller. This calibration process was crucial for controlling motor speeds and achieving desired movement precision.
+
+The results of these tests provided valuable insights into the solution's performance and guided further refinement and optimization efforts.
 
 ### Summary
 
