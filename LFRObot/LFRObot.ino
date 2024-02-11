@@ -1,3 +1,11 @@
+/*
+ * LFRObot.ino
+ *
+ * Created: 09/01/2024 17:44:29
+ * Author : Israel Owolabi
+ * Date   : 02/10/2024
+ */ 
+
 // Define IR sensor pins
 #define IR_SENSOR_RIGHT 13
 #define IR_SENSOR_LEFT 12
