@@ -17,7 +17,7 @@ An open-source project dedicated to affordable Simultaneous Localization and Map
 
 ## Getting Started
 
-Refer to our [Wiki](https://github.com/IsreLite/Inexpensibot-SLAM/wiki) for detailed documentation, installation instructions, and examples.
+Refer to our [Wiki](https://kcir-roberto.github.io/mechminds/about-us.html) for detailed documentation, installation instructions, and examples.
 
 ## Installation
 
