@@ -33,7 +33,7 @@ We encourage community contributions! Check our [Contribution Guidelines](CONTRI
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [PWR Project License](LICENSE).
 
 ## Contact
 
