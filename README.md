@@ -32,8 +32,22 @@ We encourage community contributions! Check our [Contribution Guidelines](CONTRI
 
 ## License
 
-This project is licensed under the [PWR Project License](LICENSE).
 
+This project is subject to the following terms and conditions:
+
+1. Privacy: Any information, data, or documentation provided in this project is subject to privacy and confidentiality. Users are prohibited from sharing, distributing, or disclosing any confidential information without prior written consent.
+
+2. Intellectual Property: All intellectual property rights, including but not limited to copyrights, trademarks, and patents, associated with this project belong to the project contributors and the affiliated institution. Users are granted a limited license to use, modify, and distribute the project's code and documentation for non-commercial purposes only.
+
+3. Liability: The project contributors and the affiliated institution shall not be held liable for any damages, losses, or injuries arising from the use or misuse of this project. Users assume all risks associated with the use of this project and agree to indemnify the project contributors and the affiliated institution against any claims or liabilities.
+
+4. Compliance: Users agree to comply with all applicable laws, regulations, and policies governing the use of this project. Any violation of these terms and conditions may result in termination of the user's license and legal action.
+
+By using or accessing this project, you agree to be bound by these terms and conditions. If you do not agree with any part of these terms, you are prohibited from using or accessing this project.
+
+For questions or inquiries regarding this project license, please contact [Project Manager] at [Contact Email].
+
+[Project Name] - All rights reserved.
 ## Contact
 
 For questions or inquiries, contact us at [Our Main Project Site](https://kcir-roberto.github.io/mechminds/).
