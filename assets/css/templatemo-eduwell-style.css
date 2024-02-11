@@ -1300,8 +1300,10 @@ about us page
 ---------------------------------------------
 */
 
-section.get-info .left-image {
+section.get-info .left-image img {
   margin-right: 30px;
+  border-radius: 30%;
+  filter: brightness(200%); /* Adjust the brightness value as needed (percentage) */
 }
 
 section.get-info .section-heading {
@@ -1314,6 +1316,7 @@ section.get-info .info-item {
   padding: 60px 30px 30px 30px;
   box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.06);
   position: relative;
+  width: 180%;
 }
 
 section.get-info .info-item .icon {
@@ -1332,6 +1335,7 @@ section.get-info .info-item .icon {
 
 section.get-info .info-item .icon img {
   max-width: 60%;
+  
 }
 
 section.get-info .info-item h4 {
@@ -1343,6 +1347,7 @@ section.get-info .info-item h4 {
 
 section.our-team {
   position: relative;
+  border-radius: 50%;
 }
 
 section.our-team .section-heading p {
@@ -1841,10 +1846,16 @@ body {
   }
   section.get-info .left-image {
     margin-right: 0px;
-    margin-bottom: 30px;
+    margin-bottom: 20px;
+  }
+  section.get-info .left-image .imgr {
+    border-radius: 50%;
+    max-width: 5;
   }
   section.get-info .info-item {
     margin-top: 60px;
+    border-radius: 50%;
+
   }
   section.our-office #video {
     margin-left: 0px;
