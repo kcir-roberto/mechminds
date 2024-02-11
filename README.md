@@ -37,7 +37,7 @@ This project is licensed under the [PWR Project License](LICENSE).
 
 ## Contact
 
-For questions or inquiries, contact us at [265740@student.pwr.edu.pl](https://kcir-roberto.github.io/mechminds/).
+For questions or inquiries, contact us at [Our Main Project Site](https://kcir-roberto.github.io/mechminds/).
 
 Happy mapping with Inexpensibot-SLAM!
 
